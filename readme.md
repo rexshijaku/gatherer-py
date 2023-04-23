@@ -1,6 +1,10 @@
 # Gatherer
 Collects data from multiple MySQL Databases in a multi-tenant architecture. Gatherer helps to gather the scattered data across different databases which share the same schema. It outputs the whole collected data into a single CSV file.
 
+## Support
+
+<a href="https://www.buymeacoffee.com/rexshijaku" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="180"></a>
+
 ##### Pip
 You can install this package from pip by running the following command :
 ```html
